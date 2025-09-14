@@ -1,1 +1,1 @@
-+print("Hello via diff world!")
++print("Hello via diff!")
